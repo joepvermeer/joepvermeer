@@ -1,7 +1,7 @@
-# Hi, I'm Joep 👋
+# Hi, I'm Joep 
 
 <!-- TODO: korte intro - wat studeer je precies, aan welke universiteit, welk jaar? -->
-Computer Science student @ Utrecht University. Interested in algorithms, concurrency/parallel computing, and building tools that make my own workflow easier.
+Computer Science student @ JADS. Interested in algorithms, concurrency/parallel computing, and building tools that make my own workflow easier.
 
 <!-- TODO: vul aan/vervang met je eigen links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
